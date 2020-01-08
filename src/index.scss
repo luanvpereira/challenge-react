@@ -1,0 +1,14 @@
+@import '~normalize.css';
+@import './style/settings';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: $vista-white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+    -webkit-font-smoothing: antialiased;
+}
