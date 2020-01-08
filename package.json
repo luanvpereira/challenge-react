@@ -31,7 +31,7 @@
         "eslint-plugin-react": "^7.17.0",
         "file-loader": "^4.3.0",
         "html-webpack-plugin": "^3.2.0",
-        "husky": "^4.0.0-beta.5",
+        "husky": "^4.0.0",
         "identity-obj-proxy": "^3.0.0",
         "jest": "^24.9.0",
         "mini-css-extract-plugin": "^0.8.0",
@@ -50,10 +50,5 @@
         "prop-types": "^15.7.2",
         "react": "^16.12.0",
         "react-dom": "^16.12.0"
-    },
-    "husky": {
-        "hooks": {
-            "pre-commit": "npm t && npm run lint && npm run prettier"
-        }
     }
 }
