@@ -21,15 +21,15 @@
 - repo material icon: https://material.io/resources/icons/?style=baseline
 - flexbox froggy: https://flexboxfroggy.com/
 
-### Colors:
-    - primary-color: #ec7424;
-    - page-background: #fbf7f4;
-    - light-gray: #d9d6d1;
-    - dark-gray: #5f5650;
-    - gray: #dad5d2;
-    - white: #fff;
-    - text-color: #221d1a;
-    - blue: #216daf;
+### Colors: 
+    - $tango: #ec7424;
+    - $vista-white: #fbf7f4;
+    - $timberwolf: #d9d6d1;
+    - $pine-cone: #5f5650;
+    - $swiss-coffee: #dad5d2;
+    - $white: #fff;
+    - $zeus: #221d1a;
+    - $matisse: #216daf;
 
 ### Referência layout:
 ![Screenshot](layout.png)
